@@ -71,7 +71,7 @@ Sigue estos pasos para clonar y ejecutar el sistema de gestión en tu entorno lo
 
 1. **Clonar el repositorio:**
    ```CMD
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+   git clone [https://github.com/MRumeaux/python-talentotech-c26105.git]
    cd TU_REPOSITORIO
 2. **Instalar dependencias necesarias:**
    ```CMD
